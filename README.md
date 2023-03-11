@@ -6,3 +6,4 @@ Wrappers for using AWS services to do common tasks.
 * SQS for consume/produce events
 * DynamoDB for relational data
 * ...
+# aws
